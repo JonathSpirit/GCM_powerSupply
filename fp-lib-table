@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name LSSA12VB)(type KiCad)(uri ${KIPRJMOD}/libraries/LSSA12VB.pretty)(options "")(descr ""))
   (lib (name PQ2614BLA)(type KiCad)(uri ${KIPRJMOD}/libraries/PQ2614BLA.pretty)(options "")(descr ""))
+  (lib (name EG1218)(type KiCad)(uri ${KIPRJMOD}/libraries/EG1218.pretty)(options "")(descr ""))
 )

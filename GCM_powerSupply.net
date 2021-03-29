@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\guill\Desktop\Creation\Github\GCM_powerSupply\GCM_powerSupply.sch)
-    (date "29.03.2021 12:38:53")
+    (date "29.03.2021 13:56:49")
     (tool "Eeschema (5.1.8)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -143,7 +143,7 @@
       (tstamp 60642A6A))
     (comp (ref SW1)
       (value SW_SPDT)
-      (footprint LSSA12VB:LSSA12VB)
+      (footprint EG1218:EG1218)
       (datasheet ~)
       (libsource (lib Switch) (part SW_SPDT) (description "Switch, single pole double throw"))
       (sheetpath (names /) (tstamps /))
